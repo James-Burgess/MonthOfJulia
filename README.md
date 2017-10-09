@@ -1,6 +1,6 @@
 # Month of Julia
 ![Julia logo](http://www.exegetic.biz/static/img/2015/08/Julia-Logo.png "Julia!")
-### inspired by [DataWookie](https://github.com/DataWookie/MonthOfJulia/blob/master/README.md)
+### Inspired by [DataWookie](https://github.com/DataWookie/MonthOfJulia/blob/master/README.md)
 
 After hearing a couple of mates go on about how fast julia is, I have decided to embark on a month long expedition into the belly of the beast in search of speed and optimistaion and the golden glory of true O[logN] life. 
 
