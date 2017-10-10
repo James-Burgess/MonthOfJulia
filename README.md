@@ -4,6 +4,8 @@
 
 After hearing a couple of mates go on about how fast julia is, I have decided to embark on a month long expedition into the belly of the beast in search of speed and optimistaion and the golden glory of true O[logN] life. 
 
+-[Why learn Julia?](https://www.youtube.com/watch?v=x0lI4omOYTw)
+
 While it won't be as fancy as datawookie with an accompanying blog, each day will have both a Juypter Notebook and accompanying scripts.
 
 ## My month of Julia 
