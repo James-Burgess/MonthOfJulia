@@ -9,7 +9,7 @@ After hearing a couple of mates go on about how fast julia is, I have decided to
 While it won't be as fancy as datawookie with an accompanying blog, each day will have both a Juypter Notebook and accompanying scripts.
 
 ## My month of Julia 
-- Day One: Orientation and Strings
+- Day One: [Orientation and Strings](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_01_Orientation_Strings.ipynb)
 - Day Two: Arrays and List Comprehension 
 - Day Three: Multidimesional Arrays and Types
 
