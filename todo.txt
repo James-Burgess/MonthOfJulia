@@ -1,0 +1,8 @@
+matrices
+iteration
+inputs
+plotting
+dataframes
+functional programming
+exercises
+Euler
