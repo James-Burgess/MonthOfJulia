@@ -20,3 +20,7 @@ Most of this would not be possible with out the help of the smart peolpe out the
 - [DataWookie MonthOfJulia](https://github.com/DataWookie/MonthOfJulia/blob/master/README.md);
 - [Julia by Example](http://samuelcolvin.github.io/JuliaByExample/);
 - [Julia Docs](https://docs.julialang.org/en/release-0.5/);
+
+## Help
+Thank you to all of the people that helped solve my bugs on SO
+- [Michael](https://stackoverflow.com/users/2540037/michael-k-borregaard)
