@@ -6,3 +6,6 @@ dataframes
 functional programming
 exercises
 Euler
+
+Tasks (aka Coroutines)
+Conditonals
