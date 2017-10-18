@@ -14,6 +14,8 @@ While it won't be as fancy as datawookie with an accompanying blog, each day wil
 - Day 02: [Arrays and List Comprehension](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_02_Arrays_List-Comprehension.ipynb)
 - Day 03: [Multidimesional Arrays](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_03_Arrays-2.ipynb)
 - Day 04: [Arrays 3](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_04_Array-3_Indexing.ipynb)
+- Day 05: [Array Exercises](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_05_Array_Exercises.ipynb)
+- Day 06: [Looping]
 
 ## Acknowledgements
 Most of this would not be possible with out the help of the smart peolpe out there in the world, inspiring people like me by example.
