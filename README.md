@@ -7,7 +7,7 @@ After hearing a couple of mates go on about how fast julia is, I have decided to
 - [Why learn Julia?](https://www.youtube.com/watch?v=x0lI4omOYTw)
 - [RTFM!](https://docs.julialang.org/en/stable/)
 
-While it won't be as fancy as datawookie with an accompanying blog, each day will have both a Juypter Notebook and accompanying scripts.
+While it won't be as fancy as datawookie with an accompanying blog, however, each day will have both a Juypter Notebook and accompanying scripts.
 
 ## My month of Julia 
 - Day 01: [Orientation and Strings](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_01_Orientation_Strings.ipynb)
@@ -15,8 +15,8 @@ While it won't be as fancy as datawookie with an accompanying blog, each day wil
 - Day 03: [Multidimesional Arrays](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_03_Arrays-2.ipynb)
 - Day 04: [Arrays 3](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_04_Array-3_Indexing.ipynb)
 - Day 05: [Array Exercises](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_05_Array_Exercises.ipynb)
-- Day 06: [Looping]
-- Day 07: [Algo: Bubble Sort]
+- Day 06: [Looping](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_06_Looping.ipynb)
+- Day 07: [Algo: Bubble Sort](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_07_bubble-sort.ipynb)
 
 ## Acknowledgements
 Most of this would not be possible with out the help of the smart peolpe out there in the world, inspiring people like me by example.
