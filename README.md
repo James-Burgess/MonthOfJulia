@@ -16,6 +16,7 @@ While it won't be as fancy as datawookie with an accompanying blog, each day wil
 - Day 04: [Arrays 3](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_04_Array-3_Indexing.ipynb)
 - Day 05: [Array Exercises](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_05_Array_Exercises.ipynb)
 - Day 06: [Looping]
+- Day 07: [Algo: Bubble Sort]
 
 ## Acknowledgements
 Most of this would not be possible with out the help of the smart peolpe out there in the world, inspiring people like me by example.
