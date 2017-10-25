@@ -18,6 +18,7 @@ While it won't be as fancy as datawookie with an accompanying blog, however, eac
 - Day 06: [Looping](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_06_Looping.ipynb)
 - Day 07: [Algo: Bubble Sort](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_07_bubble-sort.ipynb)
 - Day 08: [Types](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_08_Types.ipynb)
+- Day 09: [Types 2: Hierarchy](https://github.com/James-Burgess/MonthOfJulia/blob/master/notebooks/moj_09_Types-2.ipynb)
 
 ## Acknowledgements
 Most of this would not be possible with out the help of the smart peolpe out there in the world, inspiring people like me by example.
