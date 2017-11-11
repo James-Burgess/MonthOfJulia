@@ -29,3 +29,6 @@ Most of this would not be possible with out the help of the smart peolpe out the
 ## Help
 Thank you to all of the people that helped solve my bugs on SO
 - [Michael](https://stackoverflow.com/users/2540037/michael-k-borregaard)
+
+## todo
+- [ ] watch [this](https://www.infoq.com/presentations/julia-ml)
